@@ -200,6 +200,86 @@
       "updated": "2026-02-12"
     },
     {
+      "name": "ccg_china_dozer",
+      "display_name": "C&C Generals: China Dozer",
+      "version": "1.0.0",
+      "description": "China dozer sound pack from Command & Conquer: Generals",
+      "author": {
+        "name": "YonahKarp",
+        "github": "YonahKarp"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 25,
+      "total_size_bytes": 1307964,
+      "source_repo": "YonahKarp/openpeon-ccg-china-dozer",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "7eb51f525f99f7eaa4be3ee46f89ebd908795eaa0f2b64f857b9fb1b539c3545",
+      "tags": [
+        "gaming",
+        "command-and-conquer",
+        "ea",
+        "rts"
+      ],
+      "preview_sounds": [
+        "A_very_good_plan_general.mp3",
+        "Construction_built_to_spec.mp3"
+      ],
+      "added": "2026-02-13",
+      "updated": "2026-02-13"
+    },
+    {
+      "name": "ccg_gla_worker",
+      "display_name": "C&C Generals: GLA Worker",
+      "version": "1.0.0",
+      "description": "GLA worker sound pack from Command & Conquer: Generals",
+      "author": {
+        "name": "YonahKarp",
+        "github": "YonahKarp"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 37,
+      "total_size_bytes": 1613593,
+      "source_repo": "YonahKarp/openpeon-ccg-gla-worker",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "7e65595f1a858f52be4246f4c2c0fe22ee824de052bddb9d0b3766ed73798c2a",
+      "tags": [
+        "gaming",
+        "command-and-conquer",
+        "ea",
+        "rts"
+      ],
+      "preview_sounds": [
+        "I_guess_I_should_help_out.mp3",
+        "All_work_is_complete.mp3"
+      ],
+      "added": "2026-02-13",
+      "updated": "2026-02-13"
+    },
+    {
       "name": "counterstrike",
       "display_name": "Counter-Strike",
       "version": "1.0.0",
@@ -1683,6 +1763,46 @@
       ],
       "added": "2026-02-13",
       "updated": "2026-02-13"
+    },
+    {
+      "name": "wc2_human_ships",
+      "display_name": "WC2 Human Ships",
+      "version": "1.0.0",
+      "description": "Human naval unit voice lines from Warcraft II: Tides of Darkness",
+      "author": {
+        "name": "dmnd",
+        "github": "dmnd"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 22,
+      "total_size_bytes": 168954,
+      "source_repo": "dmnd/peonping-wc2_human_ships",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "a6c7d3f3ee21ae56fbc19a88d0ddf7e9a4b232e71eb30b529e0b621228dc1766",
+      "tags": [
+        "gaming",
+        "warcraft",
+        "blizzard",
+        "rts"
+      ],
+      "preview_sounds": [
+        "human1.wav",
+        "acknowledge1.wav"
+      ],
+      "added": "2026-02-12",
+      "updated": "2026-02-12"
     },
     {
       "name": "wc2_peasant",
